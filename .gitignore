@@ -1,0 +1,31 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.obj
+*.bin
+*.cache
+*.log
+
+# Dependency directories
+/packages/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+resharper/
+
+# Editor and IDE specific files
+.idea/
+.vscode/
+*.sln.ide
+*.suo
+*.csproj.user
+
+# Temporary files
+*.swp
+*.swo
+*~
